@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordGame</string>
+    <string name="game_over_title">Game Over</string>
+    <string name="game_over_message">%1$s lost\nWrong answer detected: %2$s\nCorrect answer would have been: %3$s</string>
+</resources>
